@@ -25,9 +25,6 @@ Python | SQL
 **Libraries & Frameworks:**  
 PyTorch | Scikit-Learn | Pandas | Numpy | Matplotlib | Seaborn  
 
-**Automation Tools:**  
-MAKE | n8n | CrewAI  
-
 **Applied Machine Learning:**  
 Classification | Regression | Data Cleaning | Exploratory Analysis |  
 Dashboard Creation | Predictive Modelling | Data Visualization  
